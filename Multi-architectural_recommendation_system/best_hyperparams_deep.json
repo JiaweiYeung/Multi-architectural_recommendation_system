@@ -1,0 +1,9 @@
+{
+    "BATCH_SIZE": 256,
+    "LEARNING_RATE": 0.0001,
+    "HIDDEN_DIM": 512,
+    "DROPOUT": 0.3,
+    "EPOCHS": 500,
+    "PATIENCE": 10,
+    "NUM_BLOCKS": 2
+}
